@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "terminal.integrated.shellArgs.windows": [
+            "/K",
+            "chcp 1252"
+        ],
+        "queue": "c",
+        "stack": "c"
+    }
+}

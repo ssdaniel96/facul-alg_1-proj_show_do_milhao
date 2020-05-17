@@ -1,0 +1,159 @@
+questions:
+  - id: 1
+    question: Pergunta 1 - Quando foi criada a seleção Brasileira?
+    replies:
+      - 1917
+      - 1914
+      - 1915
+    correct: 2 
+  - id: 2
+    question: Pergunta 2 - Qual o jogador com mais partidas na seleção brasileira?
+    replies:
+      - Pelé
+      - Cafú
+      - Rivelino
+    correct: 2
+    questions:
+  - id: 3
+    question: Pergunta 3 - Quantos gols o maior artilheiro (Pelé) fez com a camisa do Brasil?
+    replies:
+      - 77
+      - 83
+      - 92
+    correct: 1 
+    questions:
+  - id: 4
+    question: Pergunta 4 - Qual a seleção fez a maior goleada no Brasil, sem ser a Alemanha?
+    replies:
+      - Italia 5x0
+      - Argentina 4x0
+      - Uruguai 6x0
+    correct: 3
+    questions:
+  - id: 5
+    question: Pergunta 5 - Qual destes times já foi rebaixado?
+    replies:
+      - São Paulo
+      - Corinthians
+      - Santos
+    correct: 2 
+    questions:
+  - id: 6
+    question: Pergunta 6 - Com quantos jogadores um time de futebol entra em campo?
+    replies:
+      - 11
+      - 12
+      - 10
+    correct: 1 
+    questions:
+  - id: 7
+    question: Pergunta 7 - Qual é o formato do campo de beisebol?
+    replies:
+      - Diamante
+      - Triangular
+      - Quadrado
+    correct: 1
+    questions:
+  - id: 8
+    question: Pergunta 8 - Como é chamado o jogador que pega as bolas longas que são rebatidas?
+    replies:
+      - Rebatedor
+      - Receptor
+      - Jardineiro
+    correct: 3
+    questions:
+  - id: 9
+    question: Pergunta 9 - Como é chamado a rebatida quando a bola sai do estádio?
+    replies:
+      - Home Run
+      - Gol
+      - Strike
+    correct: 1
+    questions:
+  - id: 10
+    question: Pergunta 10 - O beisebol é um esporte muito popular em que País?
+    replies:
+      - México
+      - Portugal
+      - Estados Unidos
+    correct: 3
+    questions:
+  - id: 11
+    question: Pergunta 11 - Em qual cidade brasileira foram realizados os Jogos de 2016?
+    replies:
+      - São Paulo
+      - Rio de Janeiro
+      - Salvador
+    correct: 2 
+    questions:
+  - id: 12
+    question: Pergunta 12 - Em que país será realizada a edição dos Jogos Olímpicos de 2020?
+    replies:
+      - Tóquio
+      - Nairóbi
+      - Berlim
+    correct: 1 
+    questions:
+  - id: 13
+    question: Pergunta 13 - A cada quantos anos se é realizada uma edição dos Jogos Olímpicos?
+    replies:
+      - 2
+      - 4
+      - 6
+    correct: 2 
+    questions:
+  - id: 14
+    question: Pergunta 14 - No vôlei, o que acontece quando a bola que um jogador tocou bate na rede?
+    replies:
+      - É ponto para o time do jogador
+      - É ponto para os dois times
+      - É ponto para o time adversário
+    correct: 3
+    questions:
+  - id: 15
+    question: Pergunta 15 - No rugby, ou futebol americano, qual é o formato da bola usada durante o jogo?
+    replies:
+      - Oval
+      - Redonda
+      - Quadrada
+    correct: 2 
+    questions:
+  - id: 16
+    question: Pergunta 16 - Quantos jogadores possuem um time de Handebol?
+    replies:
+      - 7
+      - 8
+      - 9
+    correct: 1 
+    questions:
+  - id: 17
+    question: Pergunta 17 - Em que ano foi criado o Handebol?
+    replies:
+      - 1919
+      - 1920
+      - 1921
+    correct: 1
+    questions:
+  - id: 18
+    question: Pergunta 18 - NÃO é uma arte macial? 
+    replies:
+      - Taekwondo
+      - Jiu Jitsu
+      - Balé
+    correct: 3
+    questions:
+  - id: 19
+    question: Na mobilidade "nada livre" qual é o estilo mais usado?
+    replies:
+      - Cwal
+      - Peito
+      - Costas
+    correct: 1
+    questions:
+  - id: 20
+    question: Pergunta 20 - Qual é o nome que se dá para o ato de o nadador "cair na água e sair nadando"?
+    replies:
+      - Mergulho
+      - Tiro
+      - Saída 
+    correct: 3
