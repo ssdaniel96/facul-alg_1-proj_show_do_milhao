@@ -277,7 +277,7 @@ int doQuestion(){
 			if (helps > 0 && requestedHelp == 0){
 				printf("\t%d - Ajuda aos universitários [Ajudas restantes: %d]\n", alternatives+1, helps);
 			}
-			else if (helps > 0 && requestedHelp == 1){
+			else if (helps >= 0 && requestedHelp == 1){
 				printf("\nOs universitários acham que a resposta é a alternativa: %d\n", q[questioN].correct);
 				requestedHelp = 0;
 			}
